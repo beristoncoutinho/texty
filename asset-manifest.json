@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/texty/static/css/main.40fba515.css",
+    "main.js": "/texty/static/js/main.e011bcd1.js",
+    "static/js/453.40fd5a09.chunk.js": "/texty/static/js/453.40fd5a09.chunk.js",
+    "static/media/bulb.png": "/texty/static/media/bulb.0b73edc2ca4c66cb46df.png",
+    "index.html": "/texty/index.html",
+    "main.40fba515.css.map": "/texty/static/css/main.40fba515.css.map",
+    "main.e011bcd1.js.map": "/texty/static/js/main.e011bcd1.js.map",
+    "453.40fd5a09.chunk.js.map": "/texty/static/js/453.40fd5a09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40fba515.css",
+    "static/js/main.e011bcd1.js"
+  ]
+}
